@@ -14,7 +14,6 @@ class amusement extends rides{
 	int age;
 	
 	
-	
 	int rideinput;
 	
 	Scanner sc =new Scanner(System.in);
